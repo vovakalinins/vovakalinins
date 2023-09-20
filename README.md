@@ -1,7 +1,5 @@
 # Hello, I'm Vladimirs Kalinins (aka Vova) 👋
 
-![Profile views](https://gpvc.arturio.dev/vovakalinins)
-
 ## 👨‍💻 About Me
 
 I'm a passionate software developer based in Barrie. I have fluent expertise in C# and PHP and I'm actively learning JavaScript, HTML, and C++. My goal is to become a well-rounded full-stack developer.
