@@ -1,6 +1,6 @@
 # Hello, I'm Vladimirs Kalinins (aka Vova) 👋
 
-![Profile views](https://gpvc.arturio.dev/[vovakalinins])
+![Profile views](https://gpvc.arturio.dev/vovakalinins)
 
 ## 👨‍💻 About Me
 
@@ -18,7 +18,7 @@ I'm a passionate software developer based in Barrie. I have fluent expertise in 
 
 ## 📊 GitHub Stats
 
-[![Vova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[vovakalinins]&count_private=true&show_icons=true&theme=radical)](https://github.com/[YourGithubUsername])
+[![Vova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vovakalinins&count_private=true&show_icons=true&theme=radical)](https://github.com/[YourGithubUsername])
 
 ---
 
