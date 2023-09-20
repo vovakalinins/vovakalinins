@@ -1,11 +1,31 @@
-- 👋 Hi, I’m @vovakalinins
-- 👀 I’m interested in C#, C++ Coding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C# projects
+# Hello, I'm Vladimirs Kalinins (aka Vova) 👋
 
-[![vovakalinins's GitHub stats](https://github-readme-stats.vercel.app/api?username=vovakalinins)](https://github.com/anuraghazra/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/[YourGithubUsername])
 
-<!---
-vovakalinins/vovakalinins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍💻 About Me
+
+I'm a passionate software developer based in Barrie. I have fluent expertise in C# and PHP and I'm actively learning JavaScript, HTML, and C++. My goal is to become a well-rounded full-stack developer.
+
+---
+
+## 🛠 Skills
+
+- **Languages**: C#, PHP, JavaScript (Learning), HTML (Learning), C++ (Learning)
+- **Frameworks**: .NET, Laravel
+- **Tools**: Git, Visual Studio (Code)
+
+---
+
+## 📊 GitHub Stats
+
+[![Vova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGithubUsername]&count_private=true&show_icons=true&theme=radical)](https://github.com/[YourGithubUsername])
+
+---
+
+## 📫 How to Reach Me
+
+- Email: [vovakalinin24@icloud.com](mailto:vovakalinin24@icloud.com)
+
+Feel free to reach out for collaborations, opportunities, or if you have any questions!
+
+---
