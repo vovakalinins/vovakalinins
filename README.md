@@ -9,7 +9,7 @@ I'm a passionate software developer based in Barrie. I have fluent expertise in 
 ## 🛠 Skills
 
 - **Languages**: C#, PHP, JavaScript (Learning), HTML (Learning), C++ (Learning)
-- **Frameworks**: .NET, Laravel
+- **Frameworks**: .NET
 - **Tools**: Git, Visual Studio (Code)
 
 ---
