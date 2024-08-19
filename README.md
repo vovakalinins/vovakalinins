@@ -16,7 +16,7 @@ I'm a passionate software developer based in Barrie. I have fluent expertise in 
 
 ## 📊 GitHub Stats
 
-[![Vova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vovakalinins&count_private=true&show_icons=true&theme=transparent)](https://github.com/vovakalinins)
+[![Vova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vovakalinins&count_private=true&include_all_commits=true&show_icons=true&theme=transparent)](https://github.com/vovakalinins)
 
 ---
 
